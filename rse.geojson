@@ -5,133 +5,158 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.2722, 51.5766]
+        "coordinates": [-2.3086, 53.2363]
       },
       "properties": {
         "name": "STFC_STORM",
-        "country": "UK"
+        "country": "UK",
+        "location": "SKAO Headquarters, Jodrell Bank, UK"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.2722, 51.5766]
+        "coordinates": [-2.3086, 53.2363]
       },
       "properties": {
         "name": "STFC_STORM_ND",
-        "country": "UK"
+        "country": "UK",
+        "location": "SKAO Headquarters, Jodrell Bank, UK"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.7038, 40.4168]
+        "coordinates": [-3.5986, 37.2048]
       },
       "properties": {
         "name": "SPSRC_STORM",
-        "country": "Spain"
+        "country": "ES",
+        "location": "Instituto de Astrofísica de Andalucía (IAA), Spain"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.6435, 60.1282]
+        "coordinates": [11.926, 57.396]
       },
       "properties": {
         "name": "SESRC_XRD",
-        "country": "Sweden"
+        "country": "SE",
+        "location": "Onsala Space Observatory (OSO), Sweden"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5680, 53.2194]
+        "coordinates": [6.4034, 52.9155]
       },
       "properties": {
         "name": "NLSRC_PROD_DCACHE",
-        "country": "Netherlands"
+        "country": "NL",
+        "location": "ASTRON, Netherlands"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5680, 53.2194]
+        "coordinates": [6.4034, 52.9155]
       },
       "properties": {
         "name": "NLSRC_DCACHE",
-        "country": "Netherlands"
+        "country": "NL",
+        "location": "ASTRON, Netherlands"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [139.6917, 35.6895]
+        "coordinates": [138.7591, 35.6833]
       },
       "properties": {
         "name": "JPSRC_STORM",
-        "country": "Japan"
+        "country": "JP",
+        "location": "National Astronomical Observatory of Japan (NAOJ), Japan"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.4964, 41.9028]
+        "coordinates": [11.3426, 44.4949]
       },
       "properties": {
         "name": "ITSRC_IRA_XRD",
-        "country": "Italy"
+        "country": "IT",
+        "location": "National Institute of Astrophysics (INAF), Italy"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [116.4074, 39.9042]
+        "coordinates": [121.2008, 31.0975]
       },
       "properties": {
         "name": "CNSRC_XRD",
-        "country": "China"
+        "country": "CN",
+        "location": "Shanghai Astronomical Observatory, China"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.2275, 46.8182]
+        "coordinates": [9.0167, 46.1679]
       },
       "properties": {
         "name": "CHSRC_XRD_DEV",
-        "country": "Switzerland"
+        "country": "CH",
+        "location": "Swiss National Supercomputing Centre, Switzerland"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.3468, 56.1304]
+        "coordinates": [-75.6981, 45.4215]
       },
       "properties": {
         "name": "CASRC_XRD",
-        "country": "Canada"
+        "country": "CA",
+        "location": "National Research Council of Canada (NRC), Canada"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.3247, 51.5716]
+        "coordinates": [-1.3091, 51.5721]
       },
       "properties": {
         "name": "UKSRC_RAL_XRD_DEVCEPHFS",
-        "country": "UK"
+        "country": "UK",
+        "location": "Rutherford Appleton Laboratory, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-2.3086, 53.2363], [-3.5986, 37.2048]]
+      },
+      "properties": {
+        "name": "STFC_STORM to SPSRC_STORM",
+        "src": "STFC",
+        "dst": "SPSRC"
       }
     }
   ]
 }
+
