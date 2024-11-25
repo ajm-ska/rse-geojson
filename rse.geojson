@@ -5,158 +5,1543 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.3086, 53.2363]
+        "coordinates": [
+          -2.3086,
+          53.2363
+        ]
       },
       "properties": {
-        "name": "STFC_STORM",
-        "country": "UK",
-        "location": "SKAO Headquarters, Jodrell Bank, UK"
+        "name": "STFC_STORM"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.3086, 53.2363]
+        "coordinates": [
+          -2.3086,
+          53.2363
+        ]
       },
       "properties": {
-        "name": "STFC_STORM_ND",
-        "country": "UK",
-        "location": "SKAO Headquarters, Jodrell Bank, UK"
+        "name": "STFC_STORM_ND"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.5986, 37.2048]
+        "coordinates": [
+          -3.5986,
+          37.2048
+        ]
       },
       "properties": {
-        "name": "SPSRC_STORM",
-        "country": "ES",
-        "location": "Instituto de Astrofísica de Andalucía (IAA), Spain"
+        "name": "SPSRC_STORM"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.926, 57.396]
+        "coordinates": [
+          11.926,
+          57.396
+        ]
       },
       "properties": {
-        "name": "SESRC_XRD",
-        "country": "SE",
-        "location": "Onsala Space Observatory (OSO), Sweden"
+        "name": "SESRC_XRD"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.4034, 52.9155]
+        "coordinates": [
+          6.4034,
+          52.9155
+        ]
       },
       "properties": {
-        "name": "NLSRC_PROD_DCACHE",
-        "country": "NL",
-        "location": "ASTRON, Netherlands"
+        "name": "NLSRC_PROD_DCACHE"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.4034, 52.9155]
+        "coordinates": [
+          6.4034,
+          52.9155
+        ]
       },
       "properties": {
-        "name": "NLSRC_DCACHE",
-        "country": "NL",
-        "location": "ASTRON, Netherlands"
+        "name": "NLSRC_DCACHE"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [138.7591, 35.6833]
+        "coordinates": [
+          138.7591,
+          35.6833
+        ]
       },
       "properties": {
-        "name": "JPSRC_STORM",
-        "country": "JP",
-        "location": "National Astronomical Observatory of Japan (NAOJ), Japan"
+        "name": "JPSRC_STORM"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.3426, 44.4949]
+        "coordinates": [
+          11.3426,
+          44.4949
+        ]
       },
       "properties": {
-        "name": "ITSRC_IRA_XRD",
-        "country": "IT",
-        "location": "National Institute of Astrophysics (INAF), Italy"
+        "name": "ITSRC_IRA_XRD"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [121.2008, 31.0975]
+        "coordinates": [
+          121.2008,
+          31.0975
+        ]
       },
       "properties": {
-        "name": "CNSRC_XRD",
-        "country": "CN",
-        "location": "Shanghai Astronomical Observatory, China"
+        "name": "CNSRC_XRD"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.0167, 46.1679]
+        "coordinates": [
+          9.0167,
+          46.1679
+        ]
       },
       "properties": {
-        "name": "CHSRC_XRD_DEV",
-        "country": "CH",
-        "location": "Swiss National Supercomputing Centre, Switzerland"
+        "name": "CHSRC_XRD_DEV"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.6981, 45.4215]
+        "coordinates": [
+          -75.6981,
+          45.4215
+        ]
       },
       "properties": {
-        "name": "CASRC_XRD",
-        "country": "CA",
-        "location": "National Research Council of Canada (NRC), Canada"
+        "name": "CASRC_XRD"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.3091, 51.5721]
+        "coordinates": [
+          -1.3091,
+          51.5721
+        ]
       },
       "properties": {
-        "name": "UKSRC_RAL_XRD_DEVCEPHFS",
-        "country": "UK",
-        "location": "Rutherford Appleton Laboratory, UK"
+        "name": "UKSRC_RAL_XRD_DEVCEPHFS"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "LineString",
-        "coordinates": [[-2.3086, 53.2363], [-3.5986, 37.2048]]
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -2.3086,
+            53.2363
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to STFC_STORM_ND",
+        "src": "STFC_STORM",
+        "dst": "STFC_STORM_ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -3.5986,
+            37.2048
+          ]
+        ]
       },
       "properties": {
         "name": "STFC_STORM to SPSRC_STORM",
-        "src": "STFC",
-        "dst": "SPSRC"
+        "src": "STFC_STORM",
+        "dst": "SPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            11.926,
+            57.396
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to SESRC_XRD",
+        "src": "STFC_STORM",
+        "dst": "SESRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to NLSRC_PROD_DCACHE",
+        "src": "STFC_STORM",
+        "dst": "NLSRC_PROD_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to NLSRC_DCACHE",
+        "src": "STFC_STORM",
+        "dst": "NLSRC_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to JPSRC_STORM",
+        "src": "STFC_STORM",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to ITSRC_IRA_XRD",
+        "src": "STFC_STORM",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to CNSRC_XRD",
+        "src": "STFC_STORM",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to CHSRC_XRD_DEV",
+        "src": "STFC_STORM",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to CASRC_XRD",
+        "src": "STFC_STORM",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "STFC_STORM",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -3.5986,
+            37.2048
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to SPSRC_STORM",
+        "src": "STFC_STORM_ND",
+        "dst": "SPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            11.926,
+            57.396
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to SESRC_XRD",
+        "src": "STFC_STORM_ND",
+        "dst": "SESRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to NLSRC_PROD_DCACHE",
+        "src": "STFC_STORM_ND",
+        "dst": "NLSRC_PROD_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to NLSRC_DCACHE",
+        "src": "STFC_STORM_ND",
+        "dst": "NLSRC_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to JPSRC_STORM",
+        "src": "STFC_STORM_ND",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to ITSRC_IRA_XRD",
+        "src": "STFC_STORM_ND",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to CNSRC_XRD",
+        "src": "STFC_STORM_ND",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to CHSRC_XRD_DEV",
+        "src": "STFC_STORM_ND",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to CASRC_XRD",
+        "src": "STFC_STORM_ND",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3086,
+            53.2363
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "STFC_STORM_ND to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "STFC_STORM_ND",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            11.926,
+            57.396
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to SESRC_XRD",
+        "src": "SPSRC_STORM",
+        "dst": "SESRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to NLSRC_PROD_DCACHE",
+        "src": "SPSRC_STORM",
+        "dst": "NLSRC_PROD_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to NLSRC_DCACHE",
+        "src": "SPSRC_STORM",
+        "dst": "NLSRC_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to JPSRC_STORM",
+        "src": "SPSRC_STORM",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to ITSRC_IRA_XRD",
+        "src": "SPSRC_STORM",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to CNSRC_XRD",
+        "src": "SPSRC_STORM",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to CHSRC_XRD_DEV",
+        "src": "SPSRC_STORM",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to CASRC_XRD",
+        "src": "SPSRC_STORM",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5986,
+            37.2048
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SPSRC_STORM to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "SPSRC_STORM",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to NLSRC_PROD_DCACHE",
+        "src": "SESRC_XRD",
+        "dst": "NLSRC_PROD_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to NLSRC_DCACHE",
+        "src": "SESRC_XRD",
+        "dst": "NLSRC_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to JPSRC_STORM",
+        "src": "SESRC_XRD",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to ITSRC_IRA_XRD",
+        "src": "SESRC_XRD",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to CNSRC_XRD",
+        "src": "SESRC_XRD",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to CHSRC_XRD_DEV",
+        "src": "SESRC_XRD",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to CASRC_XRD",
+        "src": "SESRC_XRD",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.926,
+            57.396
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SESRC_XRD to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "SESRC_XRD",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            6.4034,
+            52.9155
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to NLSRC_DCACHE",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "NLSRC_DCACHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to JPSRC_STORM",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to ITSRC_IRA_XRD",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to CNSRC_XRD",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to CHSRC_XRD_DEV",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to CASRC_XRD",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_PROD_DCACHE to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "NLSRC_PROD_DCACHE",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            138.7591,
+            35.6833
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to JPSRC_STORM",
+        "src": "NLSRC_DCACHE",
+        "dst": "JPSRC_STORM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to ITSRC_IRA_XRD",
+        "src": "NLSRC_DCACHE",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to CNSRC_XRD",
+        "src": "NLSRC_DCACHE",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to CHSRC_XRD_DEV",
+        "src": "NLSRC_DCACHE",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to CASRC_XRD",
+        "src": "NLSRC_DCACHE",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.4034,
+            52.9155
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NLSRC_DCACHE to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "NLSRC_DCACHE",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.7591,
+            35.6833
+          ],
+          [
+            11.3426,
+            44.4949
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JPSRC_STORM to ITSRC_IRA_XRD",
+        "src": "JPSRC_STORM",
+        "dst": "ITSRC_IRA_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.7591,
+            35.6833
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JPSRC_STORM to CNSRC_XRD",
+        "src": "JPSRC_STORM",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.7591,
+            35.6833
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JPSRC_STORM to CHSRC_XRD_DEV",
+        "src": "JPSRC_STORM",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.7591,
+            35.6833
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JPSRC_STORM to CASRC_XRD",
+        "src": "JPSRC_STORM",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.7591,
+            35.6833
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "JPSRC_STORM to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "JPSRC_STORM",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            121.2008,
+            31.0975
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITSRC_IRA_XRD to CNSRC_XRD",
+        "src": "ITSRC_IRA_XRD",
+        "dst": "CNSRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITSRC_IRA_XRD to CHSRC_XRD_DEV",
+        "src": "ITSRC_IRA_XRD",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITSRC_IRA_XRD to CASRC_XRD",
+        "src": "ITSRC_IRA_XRD",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4949
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITSRC_IRA_XRD to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "ITSRC_IRA_XRD",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.2008,
+            31.0975
+          ],
+          [
+            9.0167,
+            46.1679
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CNSRC_XRD to CHSRC_XRD_DEV",
+        "src": "CNSRC_XRD",
+        "dst": "CHSRC_XRD_DEV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.2008,
+            31.0975
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CNSRC_XRD to CASRC_XRD",
+        "src": "CNSRC_XRD",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.2008,
+            31.0975
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CNSRC_XRD to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "CNSRC_XRD",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0167,
+            46.1679
+          ],
+          [
+            -75.6981,
+            45.4215
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CHSRC_XRD_DEV to CASRC_XRD",
+        "src": "CHSRC_XRD_DEV",
+        "dst": "CASRC_XRD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0167,
+            46.1679
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CHSRC_XRD_DEV to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "CHSRC_XRD_DEV",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.6981,
+            45.4215
+          ],
+          [
+            -1.3091,
+            51.5721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "CASRC_XRD to UKSRC_RAL_XRD_DEVCEPHFS",
+        "src": "CASRC_XRD",
+        "dst": "UKSRC_RAL_XRD_DEVCEPHFS"
       }
     }
   ]
 }
-
