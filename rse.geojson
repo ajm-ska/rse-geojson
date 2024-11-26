@@ -11,7 +11,8 @@
         ]
       },
       "properties": {
-        "name": "STFC_STORM"
+        "name": "STFC_STORM",
+        "success_rate_by_rse.STFC_STORM": 0.5
       }
     },
     {
@@ -24,7 +25,8 @@
         ]
       },
       "properties": {
-        "name": "STFC_STORM_ND"
+        "name": "STFC_STORM_ND",
+        "success_rate_by_rse.STFC_STORM_ND": 0.5
       }
     },
     {
@@ -37,7 +39,8 @@
         ]
       },
       "properties": {
-        "name": "SPSRC_STORM"
+        "name": "SPSRC_STORM",
+        "success_rate_by_rse.SPSRC_STORM": 0.5
       }
     },
     {
@@ -50,7 +53,8 @@
         ]
       },
       "properties": {
-        "name": "SESRC_XRD"
+        "name": "SESRC_XRD",
+        "success_rate_by_rse.SESRC_XRD": 0.5
       }
     },
     {
@@ -63,7 +67,8 @@
         ]
       },
       "properties": {
-        "name": "NLSRC_PROD_DCACHE"
+        "name": "NLSRC_PROD_DCACHE",
+        "success_rate_by_rse.NLSRC_PROD_DCACHE": 0.5
       }
     },
     {
@@ -76,7 +81,8 @@
         ]
       },
       "properties": {
-        "name": "NLSRC_DCACHE"
+        "name": "NLSRC_DCACHE",
+        "success_rate_by_rse.NLSRC_DCACHE": 0.5
       }
     },
     {
@@ -89,7 +95,8 @@
         ]
       },
       "properties": {
-        "name": "JPSRC_STORM"
+        "name": "JPSRC_STORM",
+        "success_rate_by_rse.JPSRC_STORM": 0.5
       }
     },
     {
@@ -102,7 +109,8 @@
         ]
       },
       "properties": {
-        "name": "ITSRC_IRA_XRD"
+        "name": "ITSRC_IRA_XRD",
+        "success_rate_by_rse.ITSRC_IRA_XRD": 0.5
       }
     },
     {
@@ -115,7 +123,8 @@
         ]
       },
       "properties": {
-        "name": "CNSRC_XRD"
+        "name": "CNSRC_XRD",
+        "success_rate_by_rse.CNSRC_XRD": 0.5
       }
     },
     {
@@ -128,7 +137,8 @@
         ]
       },
       "properties": {
-        "name": "CHSRC_XRD_DEV"
+        "name": "CHSRC_XRD_DEV",
+        "success_rate_by_rse.CHSRC_XRD_DEV": 0.5
       }
     },
     {
@@ -141,7 +151,8 @@
         ]
       },
       "properties": {
-        "name": "CASRC_XRD"
+        "name": "CASRC_XRD",
+        "success_rate_by_rse.CASRC_XRD": 0.5
       }
     },
     {
@@ -154,7 +165,8 @@
         ]
       },
       "properties": {
-        "name": "UKSRC_RAL_XRD_DEVCEPHFS"
+        "name": "UKSRC_RAL_XRD_DEVCEPHFS",
+        "success_rate_by_rse.UKSRC_RAL_XRD_DEVCEPHFS": 0.5
       }
     },
     {
